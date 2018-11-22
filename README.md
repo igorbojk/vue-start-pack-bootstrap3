@@ -1,4 +1,10 @@
 # vue-start-pack-bootstrap3
+```
+Vue start pack with bootstrap3 styles without jquery 
+```
+# !!!THIS PROJECT ONLY FOR BOOTSTRAP STYLES!!! 
+## (if you want bootstrap components - install vue-bootstrap)
+
 
 ## Project setup
 ```
